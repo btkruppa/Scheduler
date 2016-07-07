@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1465232307 source:c:\users\btkru_000\documents\simulation-project-2016-06-05-0930-howard\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<climits>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<time.h>
+	"Scheduler.cpp"
+
+1465167438 c:\users\btkru_000\documents\simulation-project-2016-06-05-0930-howard\scheduler.cpp
+	"Scheduler.h"
+
+1465161438 c:\users\btkru_000\documents\simulation-project-2016-06-05-0930-howard\scheduler.h
+	"Analyzer.cpp"
+
+1465162352 c:\users\btkru_000\documents\simulation-project-2016-06-05-0930-howard\analyzer.cpp
+	"Analyzer.h"
+
+1465161251 c:\users\btkru_000\documents\simulation-project-2016-06-05-0930-howard\analyzer.h
+	"ProcessTable.cpp"
+
+1465147960 c:\users\btkru_000\documents\simulation-project-2016-06-05-0930-howard\processtable.cpp
+	"ProcessTable.h"
+
+1465161544 c:\users\btkru_000\documents\simulation-project-2016-06-05-0930-howard\processtable.h
+	"PCB.cpp"
+
+1465165054 c:\users\btkru_000\documents\simulation-project-2016-06-05-0930-howard\pcb.cpp
+	"PCB.h"
+
+1465147960 c:\users\btkru_000\documents\simulation-project-2016-06-05-0930-howard\pcb.h
+	"Process.cpp"
+
+1465147960 c:\users\btkru_000\documents\simulation-project-2016-06-05-0930-howard\process.cpp
+	"Process.h"
+
+1465164916 c:\users\btkru_000\documents\simulation-project-2016-06-05-0930-howard\process.h
+
