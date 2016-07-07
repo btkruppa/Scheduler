@@ -5,7 +5,7 @@ In the main.cpp file, to change the number of CPUS that would be used insimulati
 
 to change if one method is used or all set the definition of test_all_methods to True for all and FALSE for specific method
 
-to view tcheduler simulation for each time step set the definition of output_scheduler_info to TRUE
+to view scheduler simulation for each time step set the definition of output_scheduler_info to TRUE
 
 to set method for single method test change the method_selection to selected method
 
