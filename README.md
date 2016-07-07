@@ -1,7 +1,7 @@
 # Scheduler
 Test the way an OS would use different scheduling methods.
 
-In the main, to change the number of CPUS that would be used insimulation change the definition of num_cpus to nay number
+In the main.cpp file, to change the number of CPUS that would be used insimulation change the definition of num_cpus to nay number
 to change if one method is used or all set the definition of test_all_methods to True for all and FALSE for specific method
 to view tcheduler simulation for each time step set the definition of output_scheduler_info to TRUE
 to set method for single method test change the method_selection to selected method
